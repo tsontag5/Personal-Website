@@ -41,9 +41,9 @@ I'm a senior programming student at Texas A&M University Corpus Christi and look
 
 ### PROFESSIONAL PROFILE
 
-• Rising cyber security and infrastructure major with education and experience in object-oriented programming implementation, planning and designing with other people to create programs/projects, providing technical support, writing documentation, and adding extensions or correcting flaws in projects.
-• Initiative-taking, enthusiastic, knowledge-hungry initiative-taker, eager to meet new challenges and quickly assimilate new concepts and ideas.
-• Strong people skills can contribute to projects independently, or as a team member
+- Rising cyber security and infrastructure major with education and experience in object-oriented programming implementation, planning and designing with other people to create programs/projects, providing technical support, writing documentation, and adding extensions or correcting flaws in projects.
+- Initiative-taking, enthusiastic, knowledge-hungry initiative-taker, eager to meet new challenges and quickly assimilate new concepts and ideas.
+- Strong people skills can contribute to projects independently, or as a team member
 
 ### EDUCATION
 
