@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tsontag5/Personal-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-[Image](your boy_edited.jpg)
+![Image](your boy_edited.jpg)
 
 ### Hello, I'm Trevor Sontag
 A Senior Programmer at Texas A&M Corpus Christi
@@ -122,4 +122,4 @@ Organization – Planning – Research – Technical
 
 Email: tsontag@islander.tamucc.edu
 
-[LinkedIn](https://www.linkedin.com/in/trevor-sontag-1b06571b7/)Profile
+[LinkedIn](https://www.linkedin.com/in/trevor-sontag-1b06571b7/) Profile
