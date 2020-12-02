@@ -90,6 +90,7 @@ Programming – Web Design and Software Development
 - Applications I’m fairly familiar programming with include Virtual Linux Machines on Windows, Putty, Cisco Packet Tracer, Android, and SQL.
 
 ### Interpersonal – Volunteer – Inventory Management
+
 - Assisted customers with locating snacks and introducing them to new additional snacks related to their snacking interests; handled customer transactions, including cash and credit.
 - Made and sold coffee alongside snacks and other drinks at a local church campus.
 - Active in youth student leadership in church.
@@ -107,6 +108,7 @@ Organization – Planning – Research – Technical
 - Assembled and dissembled computer lab classrooms.
 
 ### EXPERIENCE HISTORY
+
 - Inventory Manager, Cross Community Church, Pocola, OK, Oct. 2012 to Aug. 2017
 - Marching Band Section Leader, High School Athletics Department, Pocola, OK, Aug. 2016 to May 2017
 - Student Office Assistant, High School, Pocola, OK, Aug. 2013 to May 2016
@@ -117,4 +119,5 @@ Organization – Planning – Research – Technical
 ### Contact Me
 
 Email: tsontag@islander.tamucc.edu
+
 [LinkedInProfile](https://www.linkedin.com/in/trevor-sontag-1b06571b7/)
