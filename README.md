@@ -3,11 +3,11 @@
 ![Image](your boy_edited.jpg)
 
 ### Hello, I'm Trevor Sontag
-A Senior Programmer at Texas A&M Corpus Christi
+A Graduate Programmer from Texas A&M Corpus Christi
 
 ### About Me
 
-I'm a senior programming student at Texas A&M University Corpus Christi and looking to Graduate in Spring 2021 with a Bachelor's degree in Cyber Security and Infrastructure.
+I graduated from Texas A&M University Corpus Christi in Spring 2021 with a Bachelor's degree in Science and Engineering specifically, Cyber Security and Infrastructure.
 
 ### PROFESSIONAL PROFILE
 
@@ -19,8 +19,8 @@ I'm a senior programming student at Texas A&M University Corpus Christi and look
 
 Graduated high school, in the top 5% percent, Pocola High School, 2017
 Graduated High School with 4 different A and B Principal’s and Superintendent’s Honor Rolls.
-Bachelor of Computer Science in Cyber Security and Infrastructure, Texas A&M University of Corpus Christi, Expected May 2021
-Financed 72 percent of education through Post 9/11 GI Bill.
+Bachelor of Computer Science in Cyber Security and Infrastructure, Texas A&M University of Corpus Christi, 2021
+Financed 72 percent of education through Post 9/11 GI Bill with the remaining through Hazelwood.
 
 ### COMPUTER EXPERIENCE
 
@@ -55,9 +55,12 @@ Applications/Software
 ### HIGHLIGHTS OF PROFESSIONAL EXPERIENCE AND ACCOMPLISHMENTS
 
 Programming – Web Design and Software Development
-- Completed courses in Introduction to Problem Solving I and II, Microcomputer Applications, Computer Architecture, Operating Systems, Linux Systems, Network Security, Mobile Programming, Software Engineering, Technical and Professional Writing, Internet Programming, Cyber Defense I and II, Image Processing, Computer Networks, Introduction to Database Systems, Windows Security, and Data Structures.
+- Completed courses in Introduction to Problem Solving I and II, Microcomputer Applications, Computer Architecture, Operating Systems, Linux Systems, Network Security, Mobile Programming, Software Engineering, Technical and Professional Writing, Internet Programming, Cyber Defense I and II, Image Processing, Computer Networks, Introduction to Database Systems, Windows Security, Data Structures, Human Computer Interaction, Statistical Modeling and Data Analysis, Algorithms, Introduction to Machine Learning, and Capstone.
 - Designed multiple programs with multiple different Microsoft Applications including Access, Excel, PowerPoint, and Word.
 - Applications I’m fairly familiar programming with include Virtual Linux Machines on Windows, Putty, Cisco Packet Tracer, Android, and SQL.
+- Worked with a group to design a game within the computer's internal terminal called Final Reality and presented it at our school's Symposium. 
+- Designed and programmed a game app on android called Take your Time using Android Studio
+- Worked with a group to design and program a website for a small company called Vortex Meditation Fountains using Vue.js and JetBrains Space 
 
 ### Interpersonal – Volunteer – Inventory Management
 
