@@ -40,6 +40,10 @@ Programming
 - Android
 - Vue.js
 - React
+- Asp.net
+- JSon
+- HTML
+- XML
 
 Applications/Software
 - MS Word
@@ -60,6 +64,9 @@ Applications/Software
 - Trello
 - Jetbrains Space
 - Github
+- Visual Studio
+- Webstorm
+- PyCharm
 
 ### HIGHLIGHTS OF PROFESSIONAL EXPERIENCE AND ACCOMPLISHMENTS
 
