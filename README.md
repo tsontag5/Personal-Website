@@ -48,7 +48,7 @@ Programming
 Applications/Software
 - MS Word
 - MS Access
-- MS Excel
+- MS Excel 
 - MS PowerPoint
 - MS Teams
 - MATLAB
