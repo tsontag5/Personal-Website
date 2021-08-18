@@ -38,12 +38,15 @@ Programming
 - R
 - SQL
 - Android
+- Vue.js
+- React
 
 Applications/Software
 - MS Word
 - MS Access
 - MS Excel
 - MS PowerPoint
+- MS Teams
 - MATLAB
 - Photoshop
 - Virtual Machines
@@ -51,6 +54,12 @@ Applications/Software
 - Cisco Packet Tracer
 - Android
 - SQL
+- Webex
+- Zoom
+- Discord
+- Trello
+- Jetbrains Space
+- Github
 
 ### HIGHLIGHTS OF PROFESSIONAL EXPERIENCE AND ACCOMPLISHMENTS
 
@@ -62,7 +71,12 @@ Programming – Web Design and Software Development
 - Designed and programmed a game app on android called Take your Time using Android Studio
 - Worked with a group to design and program a website for a small company called Vortex Meditation Fountains using Vue.js and JetBrains Space 
 
-### Interpersonal – Volunteer – Inventory Management
+### Interpersonal – Movie Theater Team Member – Customer Service
+
+- Assisted customers with locating snacks and introducing them to new additional snacks related to their snacking interests; handled customer transactions, including cash and credit.
+- Helped maintain facility cleanliness and participated in supervision meetings.
+
+### Interpersonal – Church Volunteer – Inventory Management
 
 - Assisted customers with locating snacks and introducing them to new additional snacks related to their snacking interests; handled customer transactions, including cash and credit.
 - Made and sold coffee alongside snacks and other drinks at a local church campus.
