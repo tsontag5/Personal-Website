@@ -1,6 +1,6 @@
 ## Welcome to Trevor's Personal Website
 
-![Image](your boy_edited.jpg)
+![Image](ProfilePic.jpg)
 
 ### Hello, I'm Trevor Sontag
 A Graduate Programmer from Texas A&M Corpus Christi
